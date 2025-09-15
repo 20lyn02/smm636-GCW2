@@ -1,4 +1,3 @@
-# smm636-GCW2
 <h1>Movie Clustering with PCA and Unsupervised Learning</h1>
 
 <h2>Description</h2>
